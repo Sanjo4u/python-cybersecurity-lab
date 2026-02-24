@@ -1,0 +1,33 @@
+=== RECON REPORT ===
+
+PING RESULTS:
+
+Pinging www.google.com [142.251.29.99] with 32 bytes of data:
+Reply from 142.251.29.99: bytes=32 time=30ms TTL=115
+Reply from 142.251.29.99: bytes=32 time=28ms TTL=115
+Reply from 142.251.29.99: bytes=32 time=29ms TTL=115
+Reply from 142.251.29.99: bytes=32 time=28ms TTL=115
+
+Ping statistics for 142.251.29.99:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 28ms, Maximum = 30ms, Average = 28ms
+
+NSLOOKUP RESULTS:
+Server:  UnKnown
+Address:  fe80::d635:1dff:fea5:8679
+
+Name:    www.google.com
+Addresses:  2a00:1450:4009:c13::6a
+	  2a00:1450:4009:c13::93
+	  2a00:1450:4009:c13::69
+	  2a00:1450:4009:c13::68
+	  142.251.29.106
+	  142.251.29.99
+	  142.251.29.104
+	  142.251.29.103
+	  142.251.29.147
+	  142.251.29.105
+
+
+TRACERT RESULTS:
